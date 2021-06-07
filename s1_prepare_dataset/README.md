@@ -1,7 +1,15 @@
 # Useful links   
 
-## Top resources  
+## Top resources   
 
+[Grow data science skills with DataCamp in Visual Studio subscriptions | Microsoft Docs](https://docs.microsoft.com/en-us/visualstudio/subscriptions/vs-datacamp)
+ 
+[Cassie Kozyrkov – Medium](https://kozyrkov.medium.com/) 
+
+[StatQuest with Josh Starmer - YouTube](https://www.youtube.com/c/joshstarmer/playlists)
+
+
+## Top resources  
 
 [Minimally Sufficient Pandas. In this article, I will offer an… | by Ted Petrou | Dunder Data | Medium](https://medium.com/dunder-data/minimally-sufficient-pandas-a8e67f2a2428)
 
