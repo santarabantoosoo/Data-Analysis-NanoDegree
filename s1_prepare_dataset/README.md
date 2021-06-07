@@ -4,6 +4,11 @@
 
 [Grow data science skills with DataCamp in Visual Studio subscriptions | Microsoft Docs](https://docs.microsoft.com/en-us/visualstudio/subscriptions/vs-datacamp)
  
+or 
+
+https://docs.microsoft.com/en-us/visualstudio/subscriptions/vs-datacamp 
+
+
 [Cassie Kozyrkov – Medium](https://kozyrkov.medium.com/) 
 
 [StatQuest with Josh Starmer - YouTube](https://www.youtube.com/c/joshstarmer/playlists)
