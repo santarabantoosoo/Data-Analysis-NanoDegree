@@ -1,3 +1,8 @@
+## Top resources this week
+
+[Lessons on How to Lie with Statistics | by Will Koehrsen | Towards Data Science](https://towardsdatascience.com/lessons-from-how-to-lie-with-statistics-57060c0d2f19)
+
+
 [Were 21% of New York City residents really infected with the novel coronavirus? | by Cassie Kozyrkov | Towards Data Science](https://towardsdatascience.com/were-21-of-new-york-city-residents-really-infected-with-covid-19-aab6ebefda0) 
 
 
@@ -8,17 +13,14 @@
 
 [Presentation-Ready Data Summary and Analytic Result Tables • gtsummary](http://www.danieldsjoberg.com/gtsummary/) 
 
-[Lessons on How to Lie with Statistics | by Will Koehrsen | Towards Data Science](https://towardsdatascience.com/lessons-from-how-to-lie-with-statistics-57060c0d2f19)
 
+## other resources   
 
 [How 90% of Drivers Can be “Above Average” or Why You Need to be Careful When Using Statistics | by Will Koehrsen | Towards Data Science](https://towardsdatascience.com/how-90-of-drivers-can-be-above-average-or-why-you-need-to-be-careful-when-talking-statistics-3df7be5cb116)
 
 
 [(11) (PDF) Statistics Can Lie! – Using Descriptive Statistics in Academic Writing to Shape Reader’s Interpretations | Jessica Dheskali - Academia.edu](https://www.academia.edu/43624921/Statistics_Can_Lie_Using_Descriptive_Statistics_in_Academic_Writing_to_Shape_Reader_s_Interpretations) 
-
-
-## other resources   
-
+ 
 [Misleading Statistics & Data – News Examples For Misuse of Statistics](https://www.datapine.com/blog/misleading-statistics-and-data/) 
 
 [rushter/data-science-blogs: A curated list of data science blogs](https://github.com/rushter/data-science-blogs)
