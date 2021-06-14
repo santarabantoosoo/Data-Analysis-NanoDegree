@@ -2,11 +2,10 @@
 
 ## Top general resources   
 
-[Grow data science skills with DataCamp in Visual Studio subscriptions | Microsoft Docs](https://docs.microsoft.com/en-us/visualstudio/subscriptions/vs-datacamp)
- 
-or 
+[Datacamo free access](https://docs.microsoft.com/en-us/visualstudio/subscriptions/vs-datacamp) 
 
-https://docs.microsoft.com/en-us/visualstudio/subscriptions/vs-datacamp 
+or 
+[Grow data science skills with DataCamp in Visual Studio subscriptions | Microsoft Docs](https://docs.microsoft.com/en-us/visualstudio/subscriptions/vs-datacamp)
 
 
 [Cassie Kozyrkov – Medium](https://kozyrkov.medium.com/) 
@@ -15,9 +14,7 @@ https://docs.microsoft.com/en-us/visualstudio/subscriptions/vs-datacamp
 
 [Cheat sheets for data scientists | DataCamp](https://www.datacamp.com/community/data-science-cheatsheets)
 
-[www.ruxizhang.com/uploads/4/4/0/2/44023465/python_for_data_analysis.pdf] (http://www.ruxizhang.com/uploads/4/4/0/2/44023465/
-python_for_data_analysis.pdf)
-
+[Python for data analysis book](http://www.ruxizhang.com/uploads/4/4/0/2/44023465/python_for_data_analysis.pdf)
 
 ## cheat sheets or quick guides
 
@@ -28,6 +25,8 @@ python_for_data_analysis.pdf)
 [Datacamp - basic pandas cheat sheet](http://datacamp-community-prod.s3.amazonaws.com/f04456d7-8e61-482f-9cc9-da6f7f25fc9b) 
 
 [conda-cheatsheet.pdf](https://docs.conda.io/projects/conda/en/latest/_downloads/843d9e0198f2a193a3484886fa28163c/conda-cheatsheet.pdf)
+
+[Seaborn example plots with code](http://seaborn.pydata.org/examples/index.html)
 
 
 ## Top resources for this week
