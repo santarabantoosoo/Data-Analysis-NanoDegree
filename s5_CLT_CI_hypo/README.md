@@ -21,6 +21,11 @@
 
 [p-hacking: What it is and how to avoid it! - YouTube](https://www.youtube.com/watch?v=HDCOUXE3HMM) 
 
+[Explaining p-values with puppies | Hacker Noon](https://hackernoon.com/explaining-p-values-with-puppies-af63d68005d0)
+
+## python packages   
+
+[bootstrapped · PyPI](https://pypi.org/project/bootstrapped/) 
 
 ## Others  
 
