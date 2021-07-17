@@ -20,3 +20,13 @@ https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIF
 
 Matplotlib Tutorial (Part 1): Creating and Customizing Our First Plots - YouTube
 https://www.youtube.com/watch?v=UO98lJQ3QGI&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_
+
+
+## Projects walkthrough  
+
+[Data ScienceTutorial for Beginners | Kaggle](https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners) 
+
+
+## useful packages  
+
+[The Top 30 Exploratory Data Analysis Open Source Projects](https://awesomeopensource.com/projects/exploratory-data-analysis) 
