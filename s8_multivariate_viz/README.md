@@ -13,6 +13,9 @@ any drawbacks for plotly??  check this article..
 
 [D-Tale playground](http://alphatechadmin.pythonanywhere.com/dtale/main/1)   
 
+3- [Phlya/adjustText: A small library for automatically adjustment of text position in matplotlib plots to minimize overlaps.](https://github.com/Phlya/adjustText) 
+
+
 ## Seaborn 
 
 ### Notebook guides for seaborn   
