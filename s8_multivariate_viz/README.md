@@ -27,6 +27,10 @@ any drawbacks for plotly??  check this article..
 [Choosing color palettes — seaborn 0.11.1 documentation](https://seaborn.pydata.org/tutorial/color_palettes.html) 
 
 
+## Matplotlib 
+
+[Matplotlib Tutorial 2021 - YouTube](https://www.youtube.com/watch?v=wB9C0Mz9gSo) and [Matplotlib GitHub Cheat Sheet](https://github.com/derekbanas/matplotlib)
+
 ## Gallery with code  
 
 [Python Graph Gallery](https://www.python-graph-gallery.com/)
