@@ -42,5 +42,4 @@ any drawbacks for plotly??  check this article..
 
 [Matplotlib.pyplot.rc() in Python - GeeksforGeeks](https://www.geeksforgeeks.org/matplotlib-pyplot-rc-in-python/)
 
-
 [Understanding Letter Value Plot and Boxenplot | Towards Data Science](https://towardsdatascience.com/letter-value-plot-the-easy-to-understand-boxplot-for-large-datasets-12d6c1279c97)

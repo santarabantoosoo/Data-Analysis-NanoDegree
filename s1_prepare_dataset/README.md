@@ -2,11 +2,6 @@
 
 ## Top general resources   
 
-[Datacamo free access](https://docs.microsoft.com/en-us/visualstudio/subscriptions/vs-datacamp) 
-
-or 
-[Grow data science skills with DataCamp in Visual Studio subscriptions | Microsoft Docs](https://docs.microsoft.com/en-us/visualstudio/subscriptions/vs-datacamp)
-
 
 [Cassie Kozyrkov – Medium](https://kozyrkov.medium.com/) 
 
@@ -58,7 +53,6 @@ or
 
 
 # Other resources  
-
 
 [Introduction to Python Programming - Udacity](https://classroom.udacity.com/courses/ud1110)
 
