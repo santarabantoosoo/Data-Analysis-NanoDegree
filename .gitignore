@@ -132,3 +132,7 @@ dmypy.json
 
 *.pptx
 *.docx
+
+# large dataset for matplotlib walkthrough session9 
+namesbystate/ 
+
