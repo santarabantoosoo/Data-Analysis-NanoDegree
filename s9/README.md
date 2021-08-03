@@ -3,6 +3,8 @@
 [Data Visualization Thought Process // Python Matplotlib Baby Names Data Visualization - YouTube](https://www.youtube.com/watch?v=fbG5odHUHSc&pp=sAQA) and [code](https://github.com/kimfetti/Videos/tree/master/Thought_Process)
 
 
+[Ticks in Matplotlib](https://e2eml.school/matplotlib_ticks.html)
+
 ## matplotlib log scale   
 
 [Logarithmic Scale: How to Plot It and Actually Understand It | Towards Dev](https://towardsdev.com/logarithmic-scale-how-to-plot-and-actually-understand-it-c38f00212206)
