@@ -2,7 +2,6 @@
 
 ## Top general resources   
 
-
 [Cassie Kozyrkov – Medium](https://kozyrkov.medium.com/) 
 
 [StatQuest with Josh Starmer - YouTube](https://www.youtube.com/c/joshstarmer/playlists)
@@ -17,16 +16,12 @@
 
 [Minimally Sufficient Pandas. In this article, I will offer an… | by Ted Petrou | Dunder Data | Medium](https://medium.com/dunder-data/minimally-sufficient-pandas-a8e67f2a2428)
 
-[Datacamp - basic pandas cheat sheet](http://datacamp-community-prod.s3.amazonaws.com/f04456d7-8e61-482f-9cc9-da6f7f25fc9b) 
-
 [conda-cheatsheet.pdf](https://docs.conda.io/projects/conda/en/latest/_downloads/843d9e0198f2a193a3484886fa28163c/conda-cheatsheet.pdf)
-
-[Seaborn example plots with code](http://seaborn.pydata.org/examples/index.html)
 
 
 ## Top resources for this week
 
-[Which AI Code Autocomplete Should You Choose? | The Startup](https://medium.com/swlh/kite-vs-tabnine-which-ai-code-autocomplete-should-you-choose-eb6eba85c3a6#:~:text=TabNine%20was%20released%20in%202019,Atom%2C%20Sublime%20Text%2C%20etc.) 
+[Pandas Tutorials - Corey schafer - YouTube](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS) 
  
 [Python for Machine Learning: Pandas Axis Explained | Railsware Blog](https://railsware.com/blog/python-for-machine-learning-pandas-axis-explained/) 
  
@@ -34,8 +29,9 @@
 
 [Data-Driven? Think again. The psychological habit most people… | by Cassie Kozyrkov | HackerNoon.com | Medium](https://medium.com/hackernoon/data-inspired-5c78db3999b2)
 
-[What on earth is data science?. The quest for a useful definition | by Cassie Kozyrkov | HackerNoon.com | Medium](https://medium.com/hackernoon/what-on-earth-is-data-science-eb1237d8cb37)
+[Which AI Code Autocomplete Should You Choose? | The Startup](https://medium.com/swlh/kite-vs-tabnine-which-ai-code-autocomplete-should-you-choose-eb6eba85c3a6#:~:text=TabNine%20was%20released%20in%202019,Atom%2C%20Sublime%20Text%2C%20etc.) 
 
+[What on earth is data science?. The quest for a useful definition | by Cassie Kozyrkov | HackerNoon.com | Medium](https://medium.com/hackernoon/what-on-earth-is-data-science-eb1237d8cb37)
 
 ## setup  and troubleshooting
 
