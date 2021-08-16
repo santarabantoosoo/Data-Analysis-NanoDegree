@@ -21,6 +21,8 @@
 
 ## Top resources for this week
 
+[The easiest GitHub tutorial ever. For those who are not at ease with Git… | by Joos Korstanje | Towards Data Science](https://towardsdatascience.com/the-easiest-github-tutorial-ever-4a3aa0396039) 
+
 [Pandas Tutorials - Corey schafer - YouTube](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS) 
  
 [Python for Machine Learning: Pandas Axis Explained | Railsware Blog](https://railsware.com/blog/python-for-machine-learning-pandas-axis-explained/) 

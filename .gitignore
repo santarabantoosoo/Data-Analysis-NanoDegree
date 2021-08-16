@@ -136,3 +136,5 @@ dmypy.json
 # large dataset for matplotlib walkthrough session9 
 namesbystate/ 
 
+# items to ignore
+ignore/
