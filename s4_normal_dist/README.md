@@ -2,6 +2,8 @@
 
 [Base Rate Fallacy - Biases & Heuristics | The Decision Lab](https://thedecisionlab.com/biases/base-rate-fallacy/)
 
+[Visualize the Normal Distribution](https://istats.shinyapps.io/NormalDist/) 
+
 ## Useful links for lefthanded project   
  
 [Python Functions](https://www.w3schools.com/python/python_functions.asp) 
