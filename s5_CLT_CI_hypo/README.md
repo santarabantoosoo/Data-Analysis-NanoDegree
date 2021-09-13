@@ -23,6 +23,12 @@
 
 [Explaining p-values with puppies | Hacker Noon](https://hackernoon.com/explaining-p-values-with-puppies-af63d68005d0)
 
+## Bootstrapping   
+
+[Bootstrapping Part 1: Main Ideas - YouTube](https://www.youtube.com/watch?v=Xz0x-8-cgaQ) 
+
+[Bootstrapping Part 2: Calculating p-values!!! - YouTube](https://www.youtube.com/watch?v=N4ZQQqyIf6k) 
+
 ## python packages   
 
 [bootstrapped · PyPI](https://pypi.org/project/bootstrapped/) 
