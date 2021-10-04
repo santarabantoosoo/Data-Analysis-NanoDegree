@@ -6,7 +6,6 @@
 
 [How good is your model? | Python](https://campus.datacamp.com/courses/supervised-learning-with-scikit-learn/fine-tuning-your-model?ex=1) 
 
-
 [Inverse matrices, column space and null space | Chapter 7, Essence of linear algebra - YouTube](https://www.youtube.com/watch?v=uQhTuRlWMxw) 
 
 [FAQ: What does it mean for a non-square matrix to be full rank? - FBSwiki](https://www.cds.caltech.edu/~murray/amwiki/index.php/FAQ:_What_does_it_mean_for_a_non-square_matrix_to_be_full_rank%3F)
@@ -33,3 +32,13 @@
 [Logistic Regression Details Pt 2: Maximum Likelihood - YouTube](https://www.youtube.com/watch?v=BfKanl1aSG0)
 
 [Logistic Regression Details Pt 3: R-squared and p-value - YouTube](https://www.youtube.com/watch?v=xxFYro8QuXA&t=303s)
+
+
+# Project and related links   
+
+https://learn.datacamp.com/projects/558 
+https://learn.datacamp.com/courses/supervised-learning-with-scikit-learn 
+https://www.datacamp.com/community/tutorials/preprocessing-in-data-science-part-1-centering-scaling-and-knn 
+https://www.datacamp.com/community/tutorials/preprocessing-in-data-science-part-2-centering-scaling-and-logistic-regression 
+https://www.datacamp.com/community/tutorials/preprocessing-in-data-science-part-3-scaling-synthesized-data  
+ 
