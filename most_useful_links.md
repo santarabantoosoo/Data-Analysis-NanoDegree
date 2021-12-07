@@ -4,7 +4,9 @@
 
 [Example gallery — seaborn](http://seaborn.pydata.org/examples/index.html)
 
-[Shiny - Statistics Department - Cal Poly, San Luis Obispo](https://statistics.calpoly.edu/shiny#probview)   
+[Shiny - Statistics Department - Cal Poly, San Luis Obispo](https://statistics.calpoly.edu/shiny#probview)  
+
+[rougier/scientific-visualization-book: An open access book on scientific visualization using python and matplotlib](https://github.com/rougier/scientific-visualization-book) 
 
 ## checklists  
 

@@ -29,6 +29,13 @@
 [Python Graph Gallery](https://www.python-graph-gallery.com/)
 
 
+## matplotlib   
+
+[rougier/scientific-visualization-book: An open access book on scientific visualization using python and matplotlib](https://github.com/rougier/scientific-visualization-book) 
+
+
+[matplotlib/cheatsheets: Official Matplotlib cheat sheets](https://github.com/matplotlib/cheatsheets) 
+
 ## Other   
 
 [Formatting the Axes in Matplotlib - Studytonight](https://www.studytonight.com/matplotlib/formatting-the-axes-in-matplotlib) 
